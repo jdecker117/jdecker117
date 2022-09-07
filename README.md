@@ -18,6 +18,9 @@
     </div>
   <p>“Success is not final, failure is not fatal. It is the courage to continue that counts.” - Winston Churchill</p>
   <p>"Be tolerant with others and strict with yourself." - Marcus Aurelius</p>
+  <p>“Life is like riding a bicycle. To keep your balance, you must keep moving.” ― Albert Einstein</p>
+  <p>"The most reliable way to predict the future is to create it." - Abraham Lincoln</p>
+  <p>"A mistake is only an error, it becomes a mistake when you fail to correct it." - John Lennon</p>
 
 <!---
 jdecker117/jdecker117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
