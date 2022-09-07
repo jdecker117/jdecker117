@@ -18,7 +18,8 @@
 <div align="center">
   <h2 style="font-size: large">Favorite Quotes From Historical Figures
     </div>
-    <p>“Success is not final, failure is not fatal. It is the courage to continue that counts.” - Winston Churchill</p>
+  <p>“Success is not final, failure is not fatal. It is the courage to continue that counts.” - Winston Churchill</p>
+  <p>"Be tolerant with others and strict with yourself." - Marcus Aurelius</p>
 
 <!---
 jdecker117/jdecker117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
