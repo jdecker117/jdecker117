@@ -8,8 +8,6 @@
   </h1>                                                                                                                          
 </div>
 
--  ## About Me
-
 - :seedling: I’m currently a Full Stack Web Development student at Bloomtech
 - :bulb: I have three years of experience in the Consumer Driven Healthcare & Technology industry
 - :books: In my free time I enjoy reading historical fiction/nonfiction and sci-fi novels. 
