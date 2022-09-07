@@ -15,6 +15,10 @@
 - :books: In my free time I enjoy reading historical fiction/nonfiction and sci-fi novels. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jason-decker-832562244)
 
+<div align="center">
+  <h2 style="font-size: large">Favorite Quotes From Historical Figures
+    <p>“Success is not final, failure is not fatal. It is the courage to continue that counts.” - Winston Churchill</p>
+
 <!---
 jdecker117/jdecker117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
