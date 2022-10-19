@@ -12,8 +12,8 @@ In 2022 I decided to take the leap and pursue my dream of becoming a Software En
 
 
 <h3>Languages and Tools:</h3>
-<a href="https://www.javascript.com/"><img src="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/javascript.png" alt="javascript" width="40"></a>
-<a href="https://reactjs.org/"><img src="[https://reactjs.org/logo-og.png](https://www.datocms-assets.com/45470/1631110818-logo-react-js.png)](https://www.datocms-assets.com/45470/1631110818-logo-react-js.png)" alt="React" width="40"></a>
+<a href="https://www.javascript.com/"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40"></a>
+<a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40" height="40></a>
 
 - :seedling: Currently Studying: TypeScript, React Native 
 - :bulb: I have three years of experience in the Consumer Driven Healthcare & Technology industry
