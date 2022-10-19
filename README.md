@@ -12,7 +12,7 @@ In 2022 I decided to take the leap and pursue my dream of becoming a Software En
 
 
 <h3>Languages and Tools:</h3>
-<a href="https://www.javascript.com/" 
+<a href="https://www.javascript.com/"><img src="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/javascript.png" alt="javascript"></a> 
 
 - :seedling: Currently Studying: TypeScript, React Native 
 - :bulb: I have three years of experience in the Consumer Driven Healthcare & Technology industry
