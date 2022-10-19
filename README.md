@@ -21,7 +21,7 @@ In 2022 I decided to take the leap and pursue my dream of becoming a Software En
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jdecker117&show_icons=true&theme=radical)
 
 <div>
-  <h2 style="font-size: large">Favorite Historical Quotes
+  <h2 style="font-size: large" "border-bottom: none">Favorite Historical Quotes
     </div>
   <p>“Success is not final, failure is not fatal. It is the courage to continue that counts.” - Winston Churchill</p>
   <p>"Be tolerant with others and strict with yourself." - Marcus Aurelius</p>
