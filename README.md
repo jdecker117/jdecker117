@@ -11,7 +11,7 @@
 In 2022 I decided to take the leap and pursue my dream of becoming a Software Engineer. BloomTech Institute of Technology has been an incredible journey thus far, and has taught me fundamentals to take the reigns on an exciting new career path!</p>
 
 
-# Languages & Tools:
+<p style="font-size: large">Languages and Tools:</p>
 
 - :seedling: Currently Studying: TypeScript, React Native 
 - :bulb: I have three years of experience in the Consumer Driven Healthcare & Technology industry
