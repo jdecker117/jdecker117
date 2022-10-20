@@ -12,8 +12,7 @@ In 2022 I decided to take the leap and pursue my dream of becoming a Software En
 
 
 <h3>Languages and Tools:</h3>
-<a href="https://www.javascript.com/"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40"></a>
-<a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40" height="40></a>
+
 
 <hr />
   
