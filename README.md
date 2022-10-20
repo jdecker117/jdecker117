@@ -33,8 +33,6 @@ In 2022 I decided to take the leap and pursue my dream of becoming a Software En
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff">    
 </div>
 
-<hr />
-
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jdecker117&show_icons=true&theme=radical)
 
 <hr />
