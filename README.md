@@ -13,7 +13,7 @@ In 2022 I decided to take the leap and pursue my dream of becoming a Software En
 <hr />
   
 - :seedling: Currently Studying: TypeScript, React Native
-- :bulb: 
+- :zap: Fun Fact: I'm left-handed in all aspects of life 
 - :books: Favorite Books: The Ender Quartet, Storm of Steel, 1984 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jason-decker-832562244)
 
