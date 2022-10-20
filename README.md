@@ -12,13 +12,13 @@ In 2022 I decided to take the leap and pursue my dream of becoming a Software En
 
 
 <h3>Languages and Tools:</h3>
-
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
 
 <hr />
   
-- :seedling: Currently Studying: TypeScript, React Native 
-- :bulb: I have three years of experience in the Consumer Driven Healthcare & Technology industry
-- :books: In my free time I enjoy reading historical fiction/nonfiction and sci-fi novels. 
+- :seedling: Currently Studying: TypeScript, React Native
+- :bulb: 
+- :books: Favorite Books: The Ender Quartet, Storm of Steel, 1984 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jason-decker-832562244)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jdecker117&show_icons=true&theme=radical)
