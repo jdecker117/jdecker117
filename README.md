@@ -12,7 +12,7 @@ In 2022 I decided to take the leap and pursue my dream of becoming a Software En
 
 
 <h3>Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
+[![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)](https://html.com/)
 
 <hr />
   
