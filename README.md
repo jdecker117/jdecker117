@@ -8,7 +8,7 @@
 <h3>About Me</h3>
 <p>I am a former CDH Specialist with a background in Customer Service, Team Management, Learning & Development, and Bank Operations. The many roles I have served in have allowed me to develop and hone diverse skills such as problem-solving, communication, leadership, and much more.
 
-In 2022 I decided to take the leap and pursue my dream of becoming a Software Engineer. BloomTech Institute of Technology has been an incredible journey thus far, and has taught me fundamentals to take the reigns on an exciting new career path!</p>
+While I've been casually coding since 2020, this year I decided to take the leap and pursue my dream of becoming a Software Engineer. BloomTech Institute of Technology has been an incredible journey thus far, and has taught me fundamentals to take the reigns on an exciting new career path!</p>
 
 <hr />
   
