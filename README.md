@@ -15,6 +15,8 @@ In 2022 I decided to take the leap and pursue my dream of becoming a Software En
 <a href="https://www.javascript.com/"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40"></a>
 <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40" height="40></a>
 
+<hr />
+  
 - :seedling: Currently Studying: TypeScript, React Native 
 - :bulb: I have three years of experience in the Consumer Driven Healthcare & Technology industry
 - :books: In my free time I enjoy reading historical fiction/nonfiction and sci-fi novels. 
