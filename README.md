@@ -12,7 +12,7 @@ While I've been casually coding since 2020, this year I decided to take the leap
 
 <hr />
   
-- :seedling: Currently Studying: TypeScript, React Native
+- :seedling: Currently Studying: TypeScript, React Native, MongoDB
 - :zap: Fun Fact: I'm left-handed in all aspects of life 
 - :books: Favorite Books: The Ender Quartet, Storm of Steel, 1984 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jason-decker-832562244)
