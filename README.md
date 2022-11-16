@@ -6,9 +6,9 @@
 </div>
 
 <h3>About Me</h3>
-<p>I am a former CDH Specialist with a background in Customer Service, Team Management, Learning & Development, and Bank Operations. The many roles I have served in have allowed me to develop and hone diverse skills such as problem-solving, communication, leadership, and much more.
+<p>I am a former CDH Specialist with a background in customer service, team management, learning & development, and bank operations. The many roles I have served in have allowed me to develop and hone diverse skills such as problem-solving, communication, leadership, and much more.
 
-While I've been casually coding since 2020, this year I decided to take the leap and pursue my dream of becoming a Full Stack Web Developer. BloomTech Institute of Technology has been an incredible journey thus far, and has taught me fundamentals to take the reigns on an exciting new career path!</p>
+While I've been casually coding since 2020, this year I decided to take the leap and pursue my dream of becoming a Full Stack Web Developer. Bloom Institute of Technology has been an incredible journey thus far, and has taught me fundamentals to take the reigns on an exciting new career path!</p>
 
 <hr />
   
@@ -42,7 +42,7 @@ While I've been casually coding since 2020, this year I decided to take the leap
     </div>
   <p>“Success is not final, failure is not fatal. It is the courage to continue that counts.” - Winston Churchill</p>
   <p>"Be tolerant with others and strict with yourself." - Marcus Aurelius</p>
-  <p>"A mistake is only an error, it becomes a mistake when you fail to correct it." - John Lennon</p>
+  <p>"A mistake is only an error. It becomes a mistake when you fail to correct it." - John Lennon</p>
 
 <!---
 jdecker117/jdecker117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
