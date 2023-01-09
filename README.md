@@ -6,15 +6,15 @@
 </div>
 
 <h3>About Me</h3>
-<p>I am a former CDH Specialist with a background in customer service, team management, learning & development, and bank operations. The many roles I have served in have allowed me to develop and hone diverse skills such as problem-solving, communication, leadership, and much more.
+<p>I am a former Consumer Driven Healthcare Specialist with a background in customer service, team management, learning & development, and bank operations. The many roles I have served in have allowed me to develop and hone diverse skills such as problem-solving, communication, leadership, and much more.
 
-While I've been casually coding since 2020, this year I decided to take the leap and pursue my dream of becoming a Full Stack Web Developer. Bloom Institute of Technology has been an incredible journey thus far, and has taught me fundamentals to take the reins on an exciting new career path!</p>
+While I've been coding in my free time since 2020, this year I decided to take the leap and pursue my dream of becoming a Full Stack Web Developer. Bloom Institute of Technology has been an incredible journey thus far, and has taught me fundamentals to take the reins on an exciting new career path!</p>
 
 <hr />
   
 - :seedling: Currently Studying: TypeScript, React Native, MongoDB
 - :zap: Fun Fact: I'm left-handed in all aspects of life 
-- :books: Favorite Books: The Ender Quartet, Storm of Steel, 1984 
+- :books: Favorite Books: The Ender Quartet, Man's Search For Meaning, 1984 
 <!-- - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/deckerjason117) -->
 
 <hr />
