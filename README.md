@@ -6,7 +6,7 @@
 </div>
 
 <h3>About Me</h3>
-<p>I am a former Consumer Driven Healthcare Specialist with a background in customer service, team management, learning & development, and bank operations. 2020 marked the beginning of my coding career when I began self-studying HTML, CSS, and JavaScript through online programs like Udemy and CodeAcademy. This past year I decided to go all in and enroll in Bloom Institute of Technology's Full Stack Web Developer Program. BloomTech has been an invaluable experience thus far, and I'm excited to continue growing in this ever evolving field!
+<p>I am a former Consumer Driven Healthcare Specialist with a background in customer service, team management, learning & development, and bank operations. 2020 marked the beginning of my coding career when I began self-studying HTML, CSS, and JavaScript through online programs like Udemy and CodeAcademy. This past year I decided to go all in and enroll in Bloom Institute of Technology's Full Stack Web Development Program. BloomTech has been an invaluable experience thus far, and I'm excited to continue growing in this ever evolving field!
 </p>
 
 <hr />
